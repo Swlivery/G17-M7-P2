@@ -60,6 +60,7 @@ Ejecutar pruebas unitarias:
 ```bash
 npm run test:unit
 ```
+![Captura de pantalla 2024-12-01 014144](https://github.com/user-attachments/assets/288bf099-27c7-428d-a3eb-905875b07ba8)
 
 ## 📦 Construcción
 
